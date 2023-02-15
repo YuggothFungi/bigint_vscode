@@ -119,9 +119,3 @@ class TLNum{
     };
     
 }
-
-
-/*
-let a = new TLNum({'digits':[7,5,0,9,1,0,0,0,0]})
-let b = new TLNum({'digits':[1,8,3,4,0,0,0,0]})
-*/
